@@ -1,5 +1,5 @@
 ## About
-WordPress + LAMP developer. Not currently available.
+WordPress + LAMP stack developer. Not currently available.
 
 ## Lanuages & tools
 <p align="left">
